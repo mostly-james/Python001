@@ -7,3 +7,4 @@ print(100)
 print("Mary")
 print(30)
 print(30+20)
+
